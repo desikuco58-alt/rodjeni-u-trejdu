@@ -1,1 +1,27 @@
 # rodjeni-u-trejdu
+
+
+
+rodjeni-u-trejdu/
+│
+├── index.html
+├── risk.html
+├── skola.html
+├── psihologija.html
+├── kontakt.html
+│
+├── css/
+│   ├── style.css
+│   ├── responsive.css
+│   └── animations.css
+│
+├── js/
+│   ├── main.js
+│   ├── calculator.js
+│   └── animations.js
+│
+├── images/
+│   ├── logo.png
+│   ├── hero.jpg
+│   └── ...
+└── README.md
